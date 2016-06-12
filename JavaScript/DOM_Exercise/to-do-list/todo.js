@@ -1,5 +1,3 @@
-//just adding a comment to check something with git
-
 
 window.onload = function() {
 
