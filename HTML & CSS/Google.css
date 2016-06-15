@@ -1,0 +1,104 @@
+body {
+	background-color: white;
+	font-family: arial;
+	color:#818181;
+}
+
+header {
+	font-size: 13px;
+	color: grey ;
+	font-weight: lighter;
+	word-spacing: 10px
+}
+
+article {
+	text-align: center;
+	margin-top: 100px;
+	padding-top: 50px
+
+}
+
+footer {
+	background-color: #f3f3f3;
+	margin-top: 200px;
+	font-family: arial;
+	font-size: 13px;
+	font-weight: lighter;
+	word-spacing: 15px
+}
+
+
+button {
+	background-color: #f3f3f3;
+	margin-top: 20px;
+	color: #818181;
+	margin-left: 5px;
+	height: 30px;
+	border:none;
+}
+
+a{
+	text-decoration: none
+}
+#box {
+	width:500 px;
+	height: 33px;
+	border-style: solid;
+	border-color: #d9d9d9;
+	border-width: 1px;
+	margin-right: 350px;
+	margin-left: 350px;
+}
+
+#offer{
+	color:black;
+	font-size: 13px;
+	font-weight: lighter;
+	margin-top: 15px;
+	
+}
+
+
+#stuffontop { text-align: right;
+
+}
+#topimage {height: 50px
+
+}
+#stuffontheright {
+	float: right;
+}
+#Google
+{
+	font-size: 90px;
+	padding-bottom: 20px;
+	font-family:'Futura'
+}
+
+#G 
+{
+	color: #4285f4;
+}
+
+#first_o
+{
+	color: #F90101;
+}
+
+#second_o
+{
+	color:#F2B50F;
+}
+
+#g
+{
+	color: #4285f4;
+}
+
+#l {
+	color: #00933B;
+}
+
+#e {
+	color: #F90101;
+}
